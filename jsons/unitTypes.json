@@ -1,0 +1,7 @@
+[
+        {
+                "name": "Mounted",
+                "movementType": "Land",
+                "uniques": ["Founds a new city <for [AI player]>"]
+        }
+]
