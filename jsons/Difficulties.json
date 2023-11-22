@@ -1,0 +1,31 @@
+[
+        {
+                "name": "Demonic",
+		"baseHappiness": 3,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1.4,
+		"unitCostModifier": 1.4,
+		"unitSupplyBase": 0,
+		"unitSupplyPerCity": 1,
+		"buildingCostModifier": 1.4,
+		"policyCostModifier": 1.4,
+		"unhappinessModifier": 2.0,
+		"barbarianBonus": 0,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [],
+		"aiCityGrowthModifier": 0.2,
+		"aiUnitCostModifier": 0.45,
+		"aiBuildingCostModifier": 0.45,
+		"aiWonderCostModifier": 0.9,
+		"aiBuildingMaintenanceModifier": 0,
+		"aiUnitMaintenanceModifier": 0,
+		"aiUnitSupplyModifier": 2.0,
+		"aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel","Writing","Calendar","Sailing","Optics"],
+		"aiMajorCivBonusStartingUnits": ["Settler", "Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Catapult", "Catapult", "Catapult"],
+		"aiCityStateBonusStartingUnits": ["Settler"],
+		"aiUnhappinessModifier": 0.1,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 14
+        }
+]
