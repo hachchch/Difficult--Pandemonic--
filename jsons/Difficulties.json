@@ -22,7 +22,7 @@
 		"aiUnitSupplyModifier": 2.0,
 		"aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel","Writing","Calendar","Sailing","Optics"],
 		"aiMajorCivBonusStartingUnits": ["Settler", "Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Catapult", "Catapult", "Catapult"],
-		"aiCityStateBonusStartingUnits": ["Settler","Settler"],
+		"aiCityStateBonusStartingUnits": ["Era Starting Unit","Era Starting Unit","Horseman"],
 		"aiUnhappinessModifier": 0.1,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
